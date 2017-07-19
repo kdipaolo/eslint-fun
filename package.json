@@ -6,8 +6,8 @@
   "scripts": {
     "test": "eslint src"
   },
-  "pre-commit"
-  "author": "test",
+  "pre-commit": ["test"],
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.2.0",
